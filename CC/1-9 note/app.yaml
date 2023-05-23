@@ -1,0 +1,6 @@
+runtime: python27 # 
+threadsafe: true # if u are making an application , do u want ultiple thread to access that information by multiple threads at the same time 
+
+handlers:
+- url: /  # on particular url which script will run after get/post request 
+  script: main.app #

@@ -1,0 +1,28 @@
+./install.sh
+
+This command needs to be typed after installing google cloud sdk cli and then by opening the terminal in the area where the google cloud sdk cli has been opened
+
+ ./gcloud init
+This command needs to be typed in the terminal by opening the terminal in the bin area. The bin area is present in extracted google cloud sdk
+
+$ python3 /home/khushi/Downloads/google-cloud-cli-430.0.0-linux-x86_64/google-cloud-sdk/bin/dev_appserver.py /home/khushi/ass-1
+
+The command break down is as follows :
+First type python3 then space
+Then type the address of dev-app server.py that is present in bin
+Then put a slash and type the name dev-app server.py
+give a space
+Then type the address of the ass 1 folder
+That is it
+
+Now this command is to be run and typed by opening the terminal in ass1
+
+The assignment has been finished
+
+The ass-1 folder will consist of two files app.yaml and main.py
+
+main.py has the logic of the code
+
+
+
+
