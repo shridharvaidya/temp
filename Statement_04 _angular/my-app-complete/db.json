@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "fullName": "sumit",
+      "email": "sumit@gmail.com",
+      "username": "sumit",
+      "password": "sumit",
+      "id": 1
+    },
+    {
+      "fullName": "saif",
+      "email": "saif@gmail.com",
+      "username": "saif",
+      "password": "saif",
+      "id": 2
+    },
+    {
+      "fullName": "s",
+      "email": "sd@gmail.com",
+      "username": "sd",
+      "password": "sd",
+      "id": 3
+    }
+  ]
+}
