@@ -1,0 +1,11 @@
+* npm i 
+* node index.js
+* thunderclient -> method ,serverlink/function name ->what is requested from body (convert in json format-> "":"") 
+* go onto atlas ->database (collection)
+
+*get method can be seen on browser ,other are not visible 
+
+*get - request data from server 
+*post - to send the data 
+*put - update data in server 
+*delete - navatach ahe 
