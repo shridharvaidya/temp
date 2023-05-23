@@ -1,0 +1,20 @@
+sudo apt install openssh-server
+sudo apt install net-tools
+echo "123" > first.txt
+ls
+whoami
+ifconfig
+sudo service ssh start 
+scp first.txt shubham@10.0.0.2:
+
+
+
+Git login: git config –global username “username”
+git config –global email “email”
+Commands to create new repository on GitHub:
+1. git init
+2. git add .
+3. git commit -m “msg”
+4. git branch -M main
+5. git remote add origin <git repo url>
+6. git push -u origin main
